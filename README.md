@@ -1,2 +1,6 @@
 # powerball
-hacking the lottery
+hacking the lottery...
+
+These are a few scripts that I've been playing around with that scrape powerball data from a webpage.
+Originally written in Python, I added a similar Go script to compare performance.
+Scala is next....
